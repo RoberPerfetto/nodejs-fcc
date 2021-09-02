@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Rober Perfetto"
+	"author": "Rober Perfetto",
+	"description": "A test project to learn and practice Node js, starting with NPM",
+	"keywords": ["NodeJs", "NPM", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
